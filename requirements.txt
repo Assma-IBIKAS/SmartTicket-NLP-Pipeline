@@ -1,0 +1,22 @@
+# Data manipulation
+pandas
+numpy
+
+# NLP preprocessing
+nltk
+scikit-learn
+
+# Hugging Face embeddings
+sentence-transformers
+transformers
+torch
+
+# Vector database
+chromadb
+
+# Monitoring ML
+evidently
+
+# Visualization (EDA)
+matplotlib
+seaborn
